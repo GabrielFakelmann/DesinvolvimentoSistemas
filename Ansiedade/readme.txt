@@ -1,1 +1,3 @@
-
+Sistema desenvolvido na linguagem Java através da IDE Eclipse, o programa realiza um "teste de ansiedade", proposto em aula da Unidade Curricular de Programação de aplicativos, onde a atividade foi dada pela instrutora Ana Camila Soares. O programa funciona da seguinte forma: o mesmo realiza 10 perguntas específicas e pessoais para o usuário sobre como ele se sente.
+O código possui funções como: array, o laço "for", além de algumas outras funções.
+O programa foi finalizado na aula da Unidade Curricular de Desenvolvimento de sistemas, onde ao finalizar, a instrutora Maria Raquel Gonçalves Della Torre informou que o mesmo deveria ser postado em um repositório no GitHub.
