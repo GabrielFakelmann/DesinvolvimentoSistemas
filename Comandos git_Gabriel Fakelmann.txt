@@ -1,0 +1,11 @@
+mkdir = cria uma pasta
+git init = inicia um novo repositório Git no diretório atual.
+git add . = prepara as alterações no seu diretório de trabalho ("adiciona na fila de modificação").
+git commit = salva as alterações realizadas no repositório local.
+git branch = cria uma nova ramificação no repositório. 
+git remote add = envia o repositório local para um repositório remoto, como GitHub.
+git pushc = carrega as alterações locais para um repositório remoto. 
+git pull = baixa as alterações de um repositório remoto e as mescla no repositório local.
+cd .. = volta para a pasta anterior.
+git status = mostra o status do comit que está sendo realizado
+clear = limpa todas as informações aparentes na tela.
